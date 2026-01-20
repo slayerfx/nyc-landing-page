@@ -1,0 +1,123 @@
+/* Le code CSS de l'exercice dirigé */
+
+* {
+    box-sizing: border-box;
+}  
+
+body {
+    font-family: 'Source Sans 3'; 
+    font-weight: 600;
+    color: #444;  
+    background-color: white;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+.container {
+    max-width: 980px;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    background-color: #ffffff;       
+}
+
+h1 {
+    font-size: 2.222em ;
+    color: #003884 ;
+    font-family:'Courgette'
+}
+
+nav {
+    font-size: 1.111em ;
+    color: #003884 ;
+    font-family:'Courgette';
+    max-width: 980px;
+    margin: auto;
+}    
+
+nav ol a {    
+    text-decoration: none;
+    color: #003884;    
+}
+
+ul li {
+    line-height: 1.7;
+}
+
+.citation {
+    border: 1px solid  #d7e1ef;    
+    background-color: #d7e1ef;
+    color: #003884 ;
+    font-size: 1.389em ;
+    text-align: center;
+    font-family:'Courgette';
+    margin: 20px;
+    
+}
+
+cite {
+    font-weight: 100;
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 1.944em ;
+    color: #4f89b9;
+    text-align: center;
+    font-family:'Courgette';
+
+}
+
+h3,
+.text-footer {
+    font-size: 1.389em;
+    color: #003884;
+    text-align: center;
+    font-family:'Courgette'; 
+}
+
+.strong-text {
+    color: #003884;
+}
+
+.list-icon {
+    color: #4f89b9;
+}
+
+.img-left {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+
+}
+
+.img-right {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    text-align: center;
+    border-top: 3px solid #003884;    
+}
+
+.fa-brands {
+    color: #003884;
+}
+
+.info-footer {
+    color: purple;
+    text-decoration: underline black    
+}
+
+.info-footer a {
+    color: purple;
+    text-decoration: underline black   
+}

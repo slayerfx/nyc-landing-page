@@ -1,6 +1,6 @@
 # 🏙️ NYC Landing Page - Projet d'Intégration
 
-Ce projet est ma première réalisation concrète dans le cadre de ma formation de **Développeur Web et Mobile** à la **3W Academy**. Il s'agit d'une landing page moderne dédiée à la ville de New York, mettant l'accent sur la qualité du code et le design.
+Ce projet est une réalisation concrète effectuée dans le cadre de ma formation de **Développeur Web et Mobile** à la **3W Academy**. Il s'agit d'une landing page moderne dédiée à la ville de New York.
 
 ## 🚀 Objectifs du projet
 - Maîtriser la **sémantique HTML5** pour un référencement et une accessibilité optimisés.
@@ -19,4 +19,4 @@ Ce projet est ma première réalisation concrète dans le cadre de ma formation 
 - **Démo en ligne :** [https://slayerfx.github.io/nyc-landing-page/](https://slayerfx.github.io/nyc-landing-page/)
 
 ---
-*Réalisé par **slayerfx** dans le cadre du cursus 3W Academy - 2026*
+*Réalisé par **slayerfx** - 2026*

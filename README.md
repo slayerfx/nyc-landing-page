@@ -1,22 +1,22 @@
 # 🏙️ NYC Landing Page - Projet d'Intégration
 
-Ce projet est ma première réalisation concrète dans le cadre de ma formation de **Développeur Web et Mobile** à la **3W Academy**. Il s'agit d'une landing page moderne dédiée à la ville de New York.
+Ce projet est ma première réalisation concrète dans le cadre de ma formation de **Développeur Web et Mobile** à la **3W Academy**. Il s'agit d'une landing page moderne dédiée à la ville de New York, mettant l'accent sur la qualité du code et le design.
 
 ## 🚀 Objectifs du projet
-- Maîtriser la **sémantique HTML5** et la structure de page.
-- Intégrer des ressources externes (Google Fonts, Font Awesome).
-- Assurer une mise en page propre et professionnelle.
-- Utiliser un **workflow professionnel** avec le formateur de code **Prettier**.
+- Maîtriser la **sémantique HTML5** pour un référencement et une accessibilité optimisés.
+- Intégrer des ressources professionnelles (Google Fonts, Font Awesome).
+- Mettre en place une structure responsive et aérée.
+- Adopter un **workflow professionnel** avec le formateur de code **Prettier** pour garantir la propreté du code source.
 
 ## 🛠️ Technologies & Outils
-- **HTML5 / CSS3**
-- **Prettier** (pour la qualité et la standardisation du code)
-- **VS Code** & **Live Server**
-- **Git / GitHub** pour le versioning
+- **Langages** : HTML5 / CSS3
+- **Qualité logicielle** : **Prettier** (standardisation du code)
+- **Environnement** : VS Code & Live Server
+- **Gestion de version** : Git & GitHub
 
-## 🔗 Liens
+## 🔗 Liens du projet
 - **Code source :** [https://github.com/slayerfx/nyc-landing-page](https://github.com/slayerfx/nyc-landing-page)
-- **Aperçu en ligne :** *[Ajoute ici ton lien GitHub Pages si tu l'as activé]*
+- **Démo en ligne :** [https://slayerfx.github.io/nyc-landing-page/](https://slayerfx.github.io/nyc-landing-page/)
 
 ---
-*Réalisé par slayerfx - 2026*
+*Réalisé par **slayerfx** dans le cadre du cursus 3W Academy - 2026*

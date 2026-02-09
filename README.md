@@ -1,6 +1,6 @@
 # NYC Landing Page
 
-Une page sur la ville de New York, faite pendant ma formation a la 3W Academy.
+Une page sur la ville de New York, faite pendant ma formation à la 3W Academy.
 
 ## Technologies
 

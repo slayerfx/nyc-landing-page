@@ -1,22 +1,13 @@
-# 🏙️ NYC Landing Page - Projet d'Intégration
+# NYC Landing Page
 
-Ce projet est une réalisation concrète effectuée dans le cadre de ma formation de **Développeur Web et Mobile** à la **3W Academy**. Il s'agit d'une landing page moderne dédiée à la ville de New York.
+Une page sur la ville de New York, faite pendant ma formation a la 3W Academy.
 
-## 🚀 Objectifs du projet
-- Maîtriser la **sémantique HTML5** pour un référencement et une accessibilité optimisés.
-- Intégrer des ressources professionnelles (Google Fonts, Font Awesome).
-- Mettre en place une structure responsive et aérée.
-- Adopter un **workflow professionnel** avec le formateur de code **Prettier** pour garantir la propreté du code source.
+## Technologies
 
-## 🛠️ Technologies & Outils
-- **Langages** : HTML5 / CSS3
-- **Qualité logicielle** : **Prettier** (standardisation du code)
-- **Environnement** : VS Code & Live Server
-- **Gestion de version** : Git & GitHub
+- HTML5
+- CSS3
+- Google Fonts et Font Awesome
 
-## 🔗 Liens du projet
-- **Code source :** [https://github.com/slayerfx/nyc-landing-page](https://github.com/slayerfx/nyc-landing-page)
-- **Démo en ligne :** [https://slayerfx.github.io/nyc-landing-page/](https://slayerfx.github.io/nyc-landing-page/)
+## Liens
 
----
-*Réalisé par **slayerfx** - 2026*
+- Demo : https://slayerfx.github.io/nyc-landing-page/
